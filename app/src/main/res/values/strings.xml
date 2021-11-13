@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">G7s21MJMtarea5</string>
+    <string name="Bienvenido" />
+    <string name="Saludo">Bienvenido Tarea 5</string>
+    <string name="Correo">Correo</string>
+    <string name="lnombre">"Nombre: "</string>
+    <string name="ledad">Edad:</string>
+    <string name="lestado">Estado:</string>
+    <string name="ltel">Numero Telefonico:</string>
+    <string name="lcurp">CURP:</string>
+    <string name="txtEdad">Ej: 18</string>
+    <string name="txtNombre1">Ingrese su Nombre</string>
+    <string name="txtEstado">Ej: Soltero/Casado</string>
+    <string name="txtTel">XXXX-XXXX-XXXX</string>
+    <string name="txtCorreo">usuario@outlook.com</string>
+    <string name="txtcurp">Ingrese su Curp</string>
+    <string name="btnJson">Convertir a Gson</string>
+    <string name="txtgson" />
+</resources>
